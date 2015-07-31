@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Projeto1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Opções</string>
+    <string name="login">Entrar</string>
+    <string name="userName">Nome</string>
+    <string name="password">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="age">Idade</string>
+    <string name="name">Nome</string>
+    <string name="address">Endereço</string>
+    <string name="phone">Telefone</string>
+    <string name="save">Salvar</string>
+    <string name="remove">Remover</string>
+    <string name="required">Obrigatório</string>
+    <string name="personalData">Dados Pessoais</string>
+    <string name="success">Sucesso</string>
+    <string name="edit">Editar</string>
+    <string name="cep">CEP</string>
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+    <string name="confirm">Confirmação</string>
+    <string name="confirm_progress">Confirmação Progresso</string>
+    <string name="tipoLogradouro">Tipo De Logradouro</string>
+    <string name="bairro">Bairro</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="excessao">Usuário ou senha não encontrado!</string>
+
+</resources>
