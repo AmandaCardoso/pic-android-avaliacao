@@ -5,6 +5,8 @@
         <!-- Customize your theme here. -->
     </style>
 
+
+    
     <!-- Material application theme. -->
     <style name="AppThemeMaterial" parent="Base.Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize the Color Palette: https://developer.android.com/training/material/theme.html -->
