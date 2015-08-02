@@ -2,8 +2,10 @@ package com.example.administrador.projeto1.model.entities;
 
 import android.content.ContentValues;
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.os.Parcel;
 import android.os.Parcelable;
+import android.widget.ImageButton;
 
 import com.example.administrador.projeto1.model.persistence.ClientContract;
 import com.example.administrador.projeto1.model.persistence.MemoryClientRepository;
@@ -18,6 +20,15 @@ public class Client implements Parcelable {
     private Integer age;
     private ClientAddress address;
     private String phone;
+    private Bitmap photo;
+
+    public Bitmap getPhoto() {
+        return photo;
+    }
+
+    public void setPhoto(Bitmap photo) {
+        this.photo = photo;
+    }
 
     public Client(){
         super();

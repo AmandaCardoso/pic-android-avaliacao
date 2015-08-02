@@ -31,5 +31,9 @@
     <string name="logradouro">Logradouro</string>
     <string name="Loading">Carregando...</string>
     <string name="excessao">Usuário ou senha não encontrado!</string>
+    <string name="campoNaoPreenchido">Por favor, preenche o campo CEP!</string>
+    <string name="naoHaConexao">Não há conexão com a internet!</string>
+    <string name="exibirMapa">Exibir no Mapa</string>
+    <string name="paraExibirMapa">Para exibir o mapa, por favor, preencha os campos Tipo De Logradouro, Logradouro, Bairro, Cidade e Estado</string>
 
 </resources>
